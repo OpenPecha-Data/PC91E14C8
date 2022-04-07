@@ -1,0 +1,31 @@
+id: PC91E14C8
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA25056
+  instance_id: http://purl.bdrc.io/resource/IE25056
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་རྩོམ་རིག་གི་དྲང་དོན་བརྗོད་པ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang zu wen xue qu tian
+  author: http://purl.bdrc.io/resource/P7347
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    994633241af4452dbfda9fdcb323b9da:
+      title: པོད ༡་བོད་ཀྱི་རྩོམ་རིག་གི་དྲང་དོན་བརྗོད་པ
+      volume_number: 1
+      base_file: UT25056_I1PD362_0000.txt
+      reference: http://purl.bdrc.io/resource/VLCC4C4E681FBB4641
+      image_group: I1PD362
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW25056
+  - http://purl.bdrc.io/resource/W25056
+  ocr_software: Namsel
+created_at: '2021-12-22T11:10:05.666280'
+last_modified_at: '2021-12-22T11:10:05.666288'
